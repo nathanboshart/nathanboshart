@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nathanboshart
 - 👨🏻‍💻 I have experience in Java, Python, HTML, CSS and Javascript
 - 👀 I’m interested in photography, sports and movies
-- 🌱 I’m currently stugying Computer Science at Wilfrid Laurier University
+- 🌱 I’m currently studying Computer Science at Wilfrid Laurier University
+- 💼 I'm currently looking for student positions in Software Engineering, Information Technology, Network Security and Cyber Security.
 - 📫 You can reach me at nateboshart@gmail.com
 
 <!---
